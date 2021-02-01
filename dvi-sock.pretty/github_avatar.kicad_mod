@@ -1,0 +1,15 @@
+(module github_avatar (layer F.Cu) (tedit 5D2090AC)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 0.03 0.03) (thickness 0.0075)))
+  )
+  (fp_text value github_avatar (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 0.03 0.03) (thickness 0.0075)))
+  )
+  (fp_poly (pts (xy -0.6 -0.2) (xy -0.2 -0.2) (xy -0.2 0.2) (xy -0.6 0.2)) (layer F.SilkS) (width 0))
+  (fp_poly (pts (xy 0.2 -0.2) (xy 0.6 -0.2) (xy 0.6 0.2) (xy 0.2 0.2)) (layer F.SilkS) (width 0))
+  (fp_poly (pts (xy -0.2 0.2) (xy 0.2 0.2) (xy 0.2 0.6) (xy -0.2 0.6)) (layer F.SilkS) (width 0))
+  (fp_poly (pts (xy -0.2 0.6) (xy 0.2 0.6) (xy 0.2 1) (xy -0.2 1)) (layer F.SilkS) (width 0))
+  (fp_poly (pts (xy -1 0.2) (xy -0.6 0.2) (xy -0.6 0.6) (xy -1 0.6)) (layer F.SilkS) (width 0))
+  (fp_poly (pts (xy 0.6 0.2) (xy 1 0.2) (xy 1 0.6) (xy 0.6 0.6)) (layer F.SilkS) (width 0))
+  (fp_poly (pts (xy -0.2 -0.8) (xy 0.2 -0.8) (xy 0.2 -0.4) (xy -0.2 -0.4)) (layer F.SilkS) (width 0))
+)

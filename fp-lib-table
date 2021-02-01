@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "dvi-sock")(type "KiCad")(uri "${KIPRJMOD}/dvi-sock.pretty")(options "")(descr ""))
+)
