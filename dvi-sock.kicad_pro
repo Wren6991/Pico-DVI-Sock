@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -416,7 +416,7 @@
   },
   "sheets": [
     [
-      "9bd838da-7cda-4e49-b71e-0a7267c29dc5",
+      "7249cd3e-7822-4c97-9ce9-1a601bbee99b",
       ""
     ]
   ],

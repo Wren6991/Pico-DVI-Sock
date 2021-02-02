@@ -1,4 +1,4 @@
-19354281885118001
+19359118630843001
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84153,6 +84153,27 @@ MH_M2
 0
 0
 0
+dvi-sock
+MH_Pico_M2ish
+
+
+0
+0
+0
+dvi-sock
+PinHeader_1x02_P2.54mm_Vertical
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
+dvi-sock
+PinHeader_1x02_P2.54mm_Vertical_nosilk
+Through hole straight pin header, 1x02, 2.54mm pitch, single row
+Through hole pin header THT 1x02 2.54mm single row
+0
+2
+2
 dvi-sock
 castellated_2.54mm_smd_x3
 
