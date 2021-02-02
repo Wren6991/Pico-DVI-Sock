@@ -4,8 +4,9 @@
 
   (title_block
     (title "Pico DVI Sock (or Shim, or something, idk what to call it)")
-    (date "2021-02-01")
+    (date "2021-02-02")
     (rev "A")
+    (company "Luke Wren")
     (comment 1 "and stick the board into a breadboard. Micro-USB one end, video the other end.")
     (comment 2 "low-profile on the bottom, so you can fit headers to the remaining Pico I/O pins")
     (comment 3 "DMI (the H is silent) connector onto the end opposite the micro-USB. It's pretty ")
