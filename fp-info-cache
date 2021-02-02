@@ -1,4 +1,4 @@
-19349445274309001
+19354281885118001
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84146,6 +84146,27 @@ HDMI-SS-53000
 0
 23
 20
+dvi-sock
+MH_M2
+
+
+0
+0
+0
+dvi-sock
+castellated_2.54mm_smd_x3
+
+
+0
+6
+3
+dvi-sock
+castellated_2.54mm_smd_x5
+
+
+0
+10
+5
 dvi-sock
 github_avatar
 

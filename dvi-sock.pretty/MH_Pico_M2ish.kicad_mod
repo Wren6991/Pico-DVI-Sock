@@ -1,0 +1,15 @@
+(footprint "MH_Pico_M2ish" (version 20210126) (generator pcbnew) (layer "F.Cu")
+  (tedit 6018975D)
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+    (effects (font (size 0.0254 0.0254) (thickness 0.00635)))
+    (tstamp 08eac4e2-d7c3-4ae4-a1cd-48416dedd2f8)
+  )
+  (fp_text value "MH_Pico_M2ish" (at 0 0) (layer "F.Fab") hide
+    (effects (font (size 0.0254 0.0254) (thickness 0.00635)))
+    (tstamp cdf4e9c5-d339-45ff-a225-ef59fdfccd58)
+  )
+  (fp_circle (center 0 0) (end 1.9 0) (layer "B.CrtYd") (width 0.15) (fill none) (tstamp e4472a70-e529-4ab5-8323-31eaa3509aaf))
+  (fp_circle (center 0 0) (end 1.9 0) (layer "F.CrtYd") (width 0.15) (fill none) (tstamp 27888955-22e1-4760-8ed9-8ad707bec7ed))
+  (pad "" np_thru_hole circle (at 0 0) (size 2.1 2.1) (drill 2.1) (layers F&B.Cu *.Mask)
+    (solder_mask_margin 0.85) (clearance 0.9) (zone_connect 0) (tstamp 7b14f553-899d-47f9-a9b9-cea400c17b20))
+)
